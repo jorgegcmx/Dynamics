@@ -1,0 +1,10 @@
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\bin\Debug\NU010Q0.exe
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\bin\Debug\NU010Q0.pdb
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\bin\Debug\NU010Q0.xml
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU010Q0.Form1.resources
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU010Q0.Resources.resources
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU010Q1.vbproj.GenerateResource.Cache
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU010Q0.exe
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU010Q0.xml
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU010Q0.pdb

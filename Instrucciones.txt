@@ -1,0 +1,10 @@
+Cambiar antes de abrir:
+
+--Nombre dle proyecto de Visual Studio
+--Nombrel proyecto de Visual Basic
+
+Cambiar al abrir:
+
+--Los nombres en las propiedades del Proyecto (Assembly y Root)
+--Tambien en Assembly Information (Title y Product)
+--Caption de Form1

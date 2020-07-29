@@ -1,0 +1,10 @@
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\bin\x86\Debug\Divisiones.exe
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\bin\x86\Debug\Divisiones.pdb
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\bin\x86\Debug\Divisiones.xml
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\obj\x86\Debug\Divisiones.Form1.resources
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\obj\x86\Debug\Divisiones.Resources.resources
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\obj\x86\Debug\Divisiones.vbproj.GenerateResource.Cache
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\obj\x86\Debug\Divisiones.exe
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\obj\x86\Debug\Divisiones.xml
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\Divisiones\obj\x86\Debug\Divisiones.pdb

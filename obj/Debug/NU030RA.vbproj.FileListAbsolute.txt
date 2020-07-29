@@ -1,0 +1,10 @@
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU100GL.exe
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU100GL.pdb
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU100GL.xml
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\ResolveAssemblyReference.cache
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU100GL.Form1.resources
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU100GL.Resources.resources
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU030RA.vbproj.GenerateResource.Cache
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU100GL.exe
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU100GL.xml
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU100GL.pdb

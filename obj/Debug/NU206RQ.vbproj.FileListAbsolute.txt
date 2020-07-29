@@ -1,0 +1,20 @@
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU206RQ.exe
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU206RQ.pdb
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU206RQ.xml
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\ResolveAssemblyReference.cache
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.Form1.resources
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.Resources.resources
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.vbproj.GenerateResource.Cache
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.exe
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.xml
+D:\prueba\Jorge Antonio\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.pdb
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU206RQ.exe
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU206RQ.pdb
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\bin\Debug\NU206RQ.xml
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\ResolveAssemblyReference.cache
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.Form1.resources
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.Resources.resources
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.vbproj.GenerateResource.Cache
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.exe
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.xml
+D:\prueba\Jorge Antonio\Medicamentos y Vacunas PE\(NU.206.RQ)Captura de Observaciones Presupuesto Medicamentos y Vacunas\obj\Debug\NU206RQ.pdb

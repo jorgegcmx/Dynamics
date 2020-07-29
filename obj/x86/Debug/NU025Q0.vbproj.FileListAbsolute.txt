@@ -1,0 +1,10 @@
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\bin\x86\Debug\NU025Q0.exe
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\bin\x86\Debug\NU025Q0.pdb
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\bin\x86\Debug\NU025Q0.xml
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\obj\x86\Debug\NU025Q0.Form1.resources
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\obj\x86\Debug\NU025Q0.Resources.resources
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\obj\x86\Debug\NU025Q0.vbproj.GenerateResource.Cache
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\obj\x86\Debug\NU025Q0.exe
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\obj\x86\Debug\NU025Q0.xml
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.025.Q0) Usuarios que Reciben mercancia\obj\x86\Debug\NU025Q0.pdb

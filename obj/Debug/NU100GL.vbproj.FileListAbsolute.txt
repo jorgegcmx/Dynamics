@@ -1,0 +1,20 @@
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\bin\Debug\NU100GL.exe
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\bin\Debug\NU100GL.pdb
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\bin\Debug\NU100GL.xml
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU100GL.Form1.resources
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU100GL.Resources.resources
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU100GL.vbproj.GenerateResource.Cache
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU100GL.exe
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU100GL.xml
+D:\Desarrollo NUTRY - SL Dynamics 11\JDUJ\Dynamics Base\obj\Debug\NU100GL.pdb
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\bin\Debug\NU100GL.exe
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\bin\Debug\NU100GL.pdb
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\bin\Debug\NU100GL.xml
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\obj\Debug\ResolveAssemblyReference.cache
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\obj\Debug\NU100GL.Form1.resources
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\obj\Debug\NU100GL.Resources.resources
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\obj\Debug\NU100GL.vbproj.GenerateResource.Cache
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\obj\Debug\NU100GL.exe
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\obj\Debug\NU100GL.xml
+Y:\Desarrollo Dynamics SL\Modulo Abastecimientos\Dynamics Base\obj\Debug\NU100GL.pdb

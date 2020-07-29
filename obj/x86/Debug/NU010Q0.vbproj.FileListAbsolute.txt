@@ -1,0 +1,20 @@
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\bin\x86\Debug\NU010Q0.exe
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\bin\x86\Debug\NU010Q0.pdb
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\bin\x86\Debug\NU010Q0.xml
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\obj\x86\Debug\NU010Q0.Form1.resources
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\obj\x86\Debug\NU010Q0.Resources.resources
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\obj\x86\Debug\NU010Q0.vbproj.GenerateResource.Cache
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\obj\x86\Debug\NU010Q0.exe
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\obj\x86\Debug\NU010Q0.xml
+C:\Desarrollo NUTRY - SL Dynamics 11\DesaUNGI\(NU.010.N0)Divisiones\obj\x86\Debug\NU010Q0.pdb
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\bin\x86\Debug\NU010Q0.exe
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\bin\x86\Debug\NU010Q0.pdb
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\bin\x86\Debug\NU010Q0.xml
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\obj\x86\Debug\NU010Q0.Form1.resources
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\obj\x86\Debug\NU010Q0.Resources.resources
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\obj\x86\Debug\NU010Q0.vbproj.GenerateResource.Cache
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\obj\x86\Debug\NU010Q0.exe
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\obj\x86\Debug\NU010Q0.xml
+\\192.1.1.245\Desarrollo DYNAMICS SL\Módulo Requicisiones\(NU.010.Q0)Divisiones\obj\x86\Debug\NU010Q0.pdb
